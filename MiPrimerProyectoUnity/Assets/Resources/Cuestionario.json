@@ -1,0 +1,82 @@
+{
+	"Preguntas": [
+		{
+			"Id" : 0,
+			"TextoPregunta": "El agua es un elemento: ",
+			"Respuestas": [
+				{
+					"TextoRespuesta": "Artificial",
+					"ValorRespuesta": false
+				},
+                {
+					"TextoRespuesta": "Natural",
+					"ValorRespuesta": true
+				},
+                {
+					"TextoRespuesta": "Organico",
+					"ValorRespuesta": false
+				},
+                {
+					"TextoRespuesta": "Quimico",
+					"ValorRespuesta": false
+				},
+                {
+					"TextoRespuesta": "Neutral",
+					"ValorRespuesta": false
+				},
+				{
+					"TextoRespuesta": "asdasd",
+					"ValorRespuesta": false
+				}
+			]
+		},
+        {
+			"Id" : 1,
+			"TextoPregunta": "Cual es la formula del Agua: ",
+			"Respuestas": [
+				{
+					"TextoRespuesta": "H3O",
+					"ValorRespuesta": false
+				},
+                {
+					"TextoRespuesta": "H1O",
+					"ValorRespuesta": false
+				},
+                {
+					"TextoRespuesta": "H2O",
+					"ValorRespuesta": true
+				}
+			]
+		},
+		{
+			"Id" : 2,
+			"TextoPregunta": "Hola mundo",
+			"Respuestas": [
+				{
+					"TextoRespuesta": "1",
+					"ValorRespuesta": false
+				},
+                {
+					"TextoRespuesta": "2",
+					"ValorRespuesta": false
+				},
+                {
+					"TextoRespuesta": "3",
+					"ValorRespuesta": false
+				},
+                {
+					"TextoRespuesta": "4",
+					"ValorRespuesta": false
+				},
+                {
+					"TextoRespuesta": "5",
+					"ValorRespuesta": false
+				},
+				{
+					"TextoRespuesta": "6",
+					"ValorRespuesta": true
+				}
+			]
+		}
+	]
+}
